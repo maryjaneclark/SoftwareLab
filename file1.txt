@@ -1,1 +1,6 @@
 Hello, world.
+
+git status
+git ommit
+git push
+git tag -a Practice_Tag_1 -m 'Practice_Tag_1'
